@@ -9,3 +9,5 @@ Open Template.nlbl file with NiceLabel and replace its content with yours.
 
 # Manual print
 If you have a lot of free time and you a ready to learn 300 page manual about using TSPL printer language (and writing its commands directly to usb bus) you could try to tinker around with ManualPrint nodejs module in this repo. We will be grateful if you could find a way to make it a working solution.
+For this solution to work you need to have libusb compatible driver installed instead of the standard one. You can install it with Zadig from here 
+https://zadig.akeo.ie/. Device vid = 1155, pid = 22339.
