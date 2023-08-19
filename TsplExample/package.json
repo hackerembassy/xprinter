@@ -1,0 +1,15 @@
+{
+  "name": "tspl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.22.4",
+    "usb": "^2.8.0"
+  }
+}
